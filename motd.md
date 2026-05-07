@@ -4,7 +4,7 @@
 
 Welcome To The Train Station!
 
-Competitive Dallas-based duels.
+Casual Dallas-based duels.
 
 ## Rules
 
