@@ -1,22 +1,16 @@
-# DAL Duel Arena
+## The Train Station Duels - Dallas (120 Tickrate, Noob Friendly)
 
-![Banner]([https://your-image-url.png](https://i.imgur.com/AMNQ2ey.jpeg))
+([https://your-image-url.png](https://i.imgur.com/AMNQ2ey.jpeg)
 
----
+Welcome To The Train Station!
 
-## Welcome To The Train Station! ##
-
-Competitive Dallas-based duel server.
-
----
+Competitive Dallas-based duels.
 
 ## Rules
 
 - No RDM
 - No Cheating/Hacked Clients
 - Don't be an asshole. 
-
----
 
 ## Discord
 
