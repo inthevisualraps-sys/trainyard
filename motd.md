@@ -1,6 +1,6 @@
 ## The Train Station Duels - Dallas (120 Tickrate, Noob Friendly)
 
-![Choo! Choo!](https://i.imgur.com/JfMi2eo.jpeg)
+![Choo! Choo!](https://i.imgur.com/wHQRwzU.jpeg)
 
 Welcome To The Train Station!
 
